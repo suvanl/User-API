@@ -4,5 +4,5 @@ Basic user management API, with create, read, add and delete functionality, as w
 
 This is mainly just for personal testing purposes.
 
-### License
-Licensed under the MIT License.
+## License
+Licensed under the [MIT License](https://github.com/suvanl/User-API/blob/master/LICENSE).
