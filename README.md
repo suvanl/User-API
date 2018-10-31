@@ -1,6 +1,6 @@
 # User-API
 
-Basic user management API, with create, read, add and delete functionality, as well as authentication.
+Basic user management API, with create, read, update and delete functionality, as well as authentication.
 
 This is mainly just for personal testing purposes.
 
