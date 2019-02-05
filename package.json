@@ -11,6 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
+    "dotenv": "^6.2.0",
     "jsonwebtoken": "^8.3.0",
     "mongoose": "^5.3.8",
     "mongoose-timestamp": "^0.6.0",
